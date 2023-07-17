@@ -1,3 +1,3 @@
-const Name = "Val";
+const name = "Val";
  
-console.log("Hi, I'm " + Name );
+console.log("Hi, I'm " + name );
