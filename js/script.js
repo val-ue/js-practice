@@ -1,3 +1,3 @@
-const name = "Val";
+const numberOfHorses = 7;
  
-console.log("Hi, I'm " + name );
+console.log("Wow! There are " + numberOfHorses + " Horses!" );
