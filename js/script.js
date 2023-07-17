@@ -1,4 +1,3 @@
-export function hello() {
-    return 'Hello, World!';
-  }
-  
+const Name = "Val";
+ 
+console.log("Hi, I'm " + Name );
